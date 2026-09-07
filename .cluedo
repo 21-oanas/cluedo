@@ -1,5 +1,11 @@
+
+
 characters = ["Professor Plum", "Mrs White", "Mr Green", "Mrs Peacock", "Miss Scarlet", "Colonel Mustard"]
 print(characters[2])
 
 weapons = ["Wrench", "CandleStick", "Lead Pipe", "Rope", "Revolver", "Knife"]
 print(weapons[1])
+
+rooms = ["Study", "Kitchen", "Hall", "Conservatory", "Lounge", "Ballroom", "Dining Room", "Library", "Billiard Room" ]     ]
+print(rooms[4])
+
